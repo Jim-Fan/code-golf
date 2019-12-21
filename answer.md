@@ -1,5 +1,14 @@
 Answers are listed in ascending difference in number of char with champion
-solution. In some problems, I actually managed to beat the champion:
+solution. In some problems, I actually managed to beat the champion. The questions
+are listed in decending difference of length in answer submitted by champion and
+me:
+<br />
+<br />
+Problem:            [Pascal Triangle](https://code-golf.io/pascals-triangle#python) \
+Date:               2019-12-21 \
+Length (champion):  52 \
+Length (mine):      26 \
+Code:               K←{1,⍨1,(¯1↓⍵)+1↓⎕←⍵}⍣20 1
 <br />
 <br />
 Problem:            [Emirp Numbers](https://code-golf.io/emirp-numbers) \
