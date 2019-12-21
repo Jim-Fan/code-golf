@@ -25,6 +25,13 @@ Length (mine):      18 \
 Code:               ⍪{⍵,+/¯2↑⍵}⍣29⊢0 1
 <br />
 <br />
+Problem:            [Evil Numbers](https://code-golf.io/evil-numbers) \
+Date:               2019-10-31 \
+Length (champion):  18 \
+Length (mine):      27 \
+Code:               ⍪N/⍨~2|+/¨{(6⍴2)⊤⍵}¨N←0,⍳50
+<br />
+<br />
 Problem:            [Divisors](https://code-golf.io/divisors) \
 Date:               2019-10-30 \
 Length (champion):  20 \
